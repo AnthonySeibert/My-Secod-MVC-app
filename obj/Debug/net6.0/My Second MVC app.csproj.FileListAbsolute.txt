@@ -1,0 +1,26 @@
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\bin\Debug\net6.0\appsettings.json
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\bin\Debug\net6.0\My Second MVC app.staticwebassets.runtime.json
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\bin\Debug\net6.0\My Second MVC app.exe
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\bin\Debug\net6.0\My Second MVC app.deps.json
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\bin\Debug\net6.0\My Second MVC app.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\bin\Debug\net6.0\My Second MVC app.dll
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\bin\Debug\net6.0\ref\My Second MVC app.dll
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\bin\Debug\net6.0\My Second MVC app.pdb
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\obj\Debug\net6.0\My Second MVC app.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\obj\Debug\net6.0\My Second MVC app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\obj\Debug\net6.0\My Second MVC app.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\obj\Debug\net6.0\My Second MVC app.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\obj\Debug\net6.0\My Second MVC app.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\obj\Debug\net6.0\My Second MVC app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\obj\Debug\net6.0\My Second MVC app.RazorAssemblyInfo.cache
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\obj\Debug\net6.0\My Second MVC app.RazorAssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\obj\Debug\net6.0\scopedcss\bundle\My Second MVC app.styles.css
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\obj\Debug\net6.0\scopedcss\projectbundle\My Second MVC app.bundle.scp.css
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\obj\Debug\net6.0\My Second MVC app.dll
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\obj\Debug\net6.0\ref\My Second MVC app.dll
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\obj\Debug\net6.0\My Second MVC app.pdb
+C:\Users\antho\OneDrive\Documents\Git\My Second MVC app\obj\Debug\net6.0\My Second MVC app.genruntimeconfig.cache
